@@ -1,1 +1,1 @@
-print("hello this cruel world")
+print("hello this cruel world, i hope to have peace one day")
